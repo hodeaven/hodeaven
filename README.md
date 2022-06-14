@@ -3,3 +3,5 @@
 <img height="300em" src="https://i.imgur.com/hUJmYtk.png"/>
 
 <a href="https://open.spotify.com/show/1IKGHKJ56XP2UpDSOohNTK" target="_blank" rel="external"><img align="center"  src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" target="_blank" height="16em"></a>
+<a href="https://www.linkedin.com/in/hodeaven/" target="_blank" rel="external"><img align="center"  src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" target="_blank" height="16em"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" rel="external"><img align="center"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank" height="16em"></a>
