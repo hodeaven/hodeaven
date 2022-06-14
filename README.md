@@ -1,5 +1,5 @@
 
-### <img src="https://media1.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611560603cc12fb80d5e98413a87e520c96bda6d40e&rid=giphy.gif&ct=s" height="40em"/>  , Welcome! I'm Duda 
+### <img src="https://media1.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611560603cc12fb80d5e98413a87e520c96bda6d40e&rid=giphy.gif&ct=s" height="60em"/>  , Welcome! I'm Duda 
 
 <div align="center">
   <a href="https://github.com/hodeaven"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=hodeaven&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
