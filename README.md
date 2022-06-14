@@ -19,7 +19,7 @@
 
 
 
-<b>Languagens an Tools</b>
+<b>Languagens and Tools</b>
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30em"/>  <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="25em"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" height="25em"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" height="34em"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" height="30em"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="30em"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" height="30em"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" height="30em"/> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" height="30em"/>
 
