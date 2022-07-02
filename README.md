@@ -15,7 +15,7 @@
 <a href="mailto:eduardainteraminensee@gmail.com" target="_blank" rel="external"><img align="center"  src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank" height="30em"></a>
     </div>
   <div align="center">
-<img src="https://art.pixilart.com/cb97514d85c12ba.gif" height="600"/>
+<img src="https://art.pixilart.com/cb97514d85c12ba.gif" height=""/>
     </div>
  
  ##
