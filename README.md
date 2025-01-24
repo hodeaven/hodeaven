@@ -19,6 +19,6 @@ Bem-vindo ao meu cantinho no GitHub! 🚀 Aqui você encontrará projetos incrí
 - 🔌 [Em andamento...]()
 - 📫 **Email:** eduardainteraminensee@gmail.com
 
-Sinta-se à vontade para explorar, contribuir ou simplesmente dizer "Oi"! 😸
+*Sinta-se à vontade para explorar, contribuir ou simplesmente dizer "Oi"!* 😸
 <div align="right"><img src="https://media2.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.webp?cid=790b7611z77p0qsrdhqqr2eerqiy49mlu31i3q3l4d9hzj8n&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="150">
 </div>
